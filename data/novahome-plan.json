@@ -1,0 +1,26 @@
+[
+  {
+    "sobject": "Warranty__c",
+    "saveRefs": true,
+    "resolveRefs": false,
+    "files": [
+      "Warranty__c.json"
+    ]
+  },
+  {
+    "sobject": "Loyalty_Member__c",
+    "saveRefs": true,
+    "resolveRefs": false,
+    "files": [
+      "Loyalty_Member__c.json"
+    ]
+  },
+  {
+    "sobject": "Shipment__c",
+    "saveRefs": true,
+    "resolveRefs": false,
+    "files": [
+      "Shipment__c.json"
+    ]
+  }
+]

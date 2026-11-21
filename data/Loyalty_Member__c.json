@@ -1,0 +1,169 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef1"
+      },
+      "Name": "Ayesha Khan",
+      "Email__c": "ayesha.khan@example.com",
+      "Tier__c": "Bronze",
+      "Points__c": 300,
+      "Join_Date__c": "2022-01-02"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef2"
+      },
+      "Name": "Omar Siddiqui",
+      "Email__c": "omar.siddiqui@example.com",
+      "Tier__c": "Silver",
+      "Points__c": 1637,
+      "Join_Date__c": "2023-02-03"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef3"
+      },
+      "Name": "Sara Ahmed",
+      "Email__c": "sara.ahmed@example.com",
+      "Tier__c": "Gold",
+      "Points__c": 4274,
+      "Join_Date__c": "2024-03-04"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef4"
+      },
+      "Name": "Bilal Raza",
+      "Email__c": "bilal.raza@example.com",
+      "Tier__c": "Platinum",
+      "Points__c": 9411,
+      "Join_Date__c": "2025-04-05"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef5"
+      },
+      "Name": "Fatima Malik",
+      "Email__c": "fatima.malik@example.com",
+      "Tier__c": "Bronze",
+      "Points__c": 848,
+      "Join_Date__c": "2022-05-06"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef6"
+      },
+      "Name": "Hamza Qureshi",
+      "Email__c": "hamza.qureshi@example.com",
+      "Tier__c": "Silver",
+      "Points__c": 2185,
+      "Join_Date__c": "2023-06-07"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef7"
+      },
+      "Name": "Zainab Hussain",
+      "Email__c": "zainab.hussain@example.com",
+      "Tier__c": "Gold",
+      "Points__c": 4822,
+      "Join_Date__c": "2024-07-08"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef8"
+      },
+      "Name": "Ali Haider",
+      "Email__c": "ali.haider@example.com",
+      "Tier__c": "Platinum",
+      "Points__c": 9959,
+      "Join_Date__c": "2025-08-09"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef9"
+      },
+      "Name": "Maryam Iqbal",
+      "Email__c": "maryam.iqbal@example.com",
+      "Tier__c": "Bronze",
+      "Points__c": 1396,
+      "Join_Date__c": "2022-09-10"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef10"
+      },
+      "Name": "Usman Tariq",
+      "Email__c": "usman.tariq@example.com",
+      "Tier__c": "Silver",
+      "Points__c": 2733,
+      "Join_Date__c": "2023-10-11"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef11"
+      },
+      "Name": "Hina Javed",
+      "Email__c": "hina.javed@example.com",
+      "Tier__c": "Gold",
+      "Points__c": 5370,
+      "Join_Date__c": "2024-11-12"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef12"
+      },
+      "Name": "Daniyal Shah",
+      "Email__c": "daniyal.shah@example.com",
+      "Tier__c": "Platinum",
+      "Points__c": 10507,
+      "Join_Date__c": "2025-12-13"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef13"
+      },
+      "Name": "Noor Fatima",
+      "Email__c": "noor.fatima@example.com",
+      "Tier__c": "Bronze",
+      "Points__c": 1944,
+      "Join_Date__c": "2022-01-14"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef14"
+      },
+      "Name": "Imran Butt",
+      "Email__c": "imran.butt@example.com",
+      "Tier__c": "Silver",
+      "Points__c": 3281,
+      "Join_Date__c": "2023-02-15"
+    },
+    {
+      "attributes": {
+        "type": "Loyalty_Member__c",
+        "referenceId": "LoyRef15"
+      },
+      "Name": "Amna Rehman",
+      "Email__c": "amna.rehman@example.com",
+      "Tier__c": "Gold",
+      "Points__c": 5918,
+      "Join_Date__c": "2024-03-16"
+    }
+  ]
+}

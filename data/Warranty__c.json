@@ -1,0 +1,244 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef1"
+      },
+      "Name": "WAR-0001",
+      "Product_Name__c": "NovaHome Smart Thermostat",
+      "Start_Date__c": "2023-01-01",
+      "End_Date__c": "2026-01-01",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef2"
+      },
+      "Name": "WAR-0002",
+      "Product_Name__c": "NovaHome Robot Vacuum",
+      "Start_Date__c": "2024-02-02",
+      "End_Date__c": "2026-02-02",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef3"
+      },
+      "Name": "WAR-0003",
+      "Product_Name__c": "NovaHome Air Purifier",
+      "Start_Date__c": "2025-03-03",
+      "End_Date__c": "2027-03-03",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef4"
+      },
+      "Name": "WAR-0004",
+      "Product_Name__c": "NovaHome Smart Lock",
+      "Start_Date__c": "2026-04-04",
+      "End_Date__c": "2029-04-04",
+      "Status__c": "Claimed",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef5"
+      },
+      "Name": "WAR-0005",
+      "Product_Name__c": "NovaHome Video Doorbell",
+      "Start_Date__c": "2023-05-05",
+      "End_Date__c": "2025-05-05",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef6"
+      },
+      "Name": "WAR-0006",
+      "Product_Name__c": "NovaHome Security Camera",
+      "Start_Date__c": "2024-06-06",
+      "End_Date__c": "2026-06-06",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef7"
+      },
+      "Name": "WAR-0007",
+      "Product_Name__c": "NovaHome Smart Speaker",
+      "Start_Date__c": "2025-07-07",
+      "End_Date__c": "2028-07-07",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef8"
+      },
+      "Name": "WAR-0008",
+      "Product_Name__c": "NovaHome Water Leak Sensor",
+      "Start_Date__c": "2026-08-08",
+      "End_Date__c": "2028-08-08",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef9"
+      },
+      "Name": "WAR-0009",
+      "Product_Name__c": "NovaHome Smart Plug",
+      "Start_Date__c": "2023-09-09",
+      "End_Date__c": "2025-09-09",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef10"
+      },
+      "Name": "WAR-0010",
+      "Product_Name__c": "NovaHome Ceiling Fan",
+      "Start_Date__c": "2024-10-10",
+      "End_Date__c": "2027-10-10",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef11"
+      },
+      "Name": "WAR-0011",
+      "Product_Name__c": "NovaHome Dishwasher",
+      "Start_Date__c": "2025-11-11",
+      "End_Date__c": "2027-11-11",
+      "Status__c": "Claimed",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef12"
+      },
+      "Name": "WAR-0012",
+      "Product_Name__c": "NovaHome Washing Machine",
+      "Start_Date__c": "2026-12-12",
+      "End_Date__c": "2028-12-12",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef13"
+      },
+      "Name": "WAR-0013",
+      "Product_Name__c": "NovaHome Refrigerator",
+      "Start_Date__c": "2023-01-13",
+      "End_Date__c": "2026-01-13",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef14"
+      },
+      "Name": "WAR-0014",
+      "Product_Name__c": "NovaHome Microwave Oven",
+      "Start_Date__c": "2024-02-14",
+      "End_Date__c": "2026-02-14",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef15"
+      },
+      "Name": "WAR-0015",
+      "Product_Name__c": "NovaHome Smart Light Hub",
+      "Start_Date__c": "2025-03-15",
+      "End_Date__c": "2027-03-15",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef16"
+      },
+      "Name": "WAR-0016",
+      "Product_Name__c": "NovaHome Dehumidifier",
+      "Start_Date__c": "2026-04-16",
+      "End_Date__c": "2029-04-16",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef17"
+      },
+      "Name": "WAR-0017",
+      "Product_Name__c": "NovaHome Garage Door Opener",
+      "Start_Date__c": "2023-05-17",
+      "End_Date__c": "2025-05-17",
+      "Status__c": "Expired",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef18"
+      },
+      "Name": "WAR-0018",
+      "Product_Name__c": "NovaHome Smoke Detector",
+      "Start_Date__c": "2024-06-18",
+      "End_Date__c": "2026-06-18",
+      "Status__c": "Claimed",
+      "Coverage_Type__c": "Standard"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef19"
+      },
+      "Name": "WAR-0019",
+      "Product_Name__c": "NovaHome Water Heater",
+      "Start_Date__c": "2025-07-19",
+      "End_Date__c": "2028-07-19",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Extended"
+    },
+    {
+      "attributes": {
+        "type": "Warranty__c",
+        "referenceId": "WarRef20"
+      },
+      "Name": "WAR-0020",
+      "Product_Name__c": "NovaHome Smart Blinds",
+      "Start_Date__c": "2026-08-20",
+      "End_Date__c": "2028-08-20",
+      "Status__c": "Active",
+      "Coverage_Type__c": "Standard"
+    }
+  ]
+}
